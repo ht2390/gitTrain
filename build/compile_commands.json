@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/allentang/Documents/demo/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/Demo.dir/main.cc.o -c /Users/allentang/Documents/demo/main.cc",
+  "file": "/Users/allentang/Documents/demo/main.cc"
+},
+{
+  "directory": "/Users/allentang/Documents/demo/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/Demo.dir/MathFunctions.cc.o -c /Users/allentang/Documents/demo/MathFunctions.cc",
+  "file": "/Users/allentang/Documents/demo/MathFunctions.cc"
+}
+]

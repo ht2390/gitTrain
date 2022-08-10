@@ -1,0 +1,3 @@
+/Users/allentang/Documents/demo/build/CMakeFiles/Demo.dir
+/Users/allentang/Documents/demo/build/CMakeFiles/edit_cache.dir
+/Users/allentang/Documents/demo/build/CMakeFiles/rebuild_cache.dir
